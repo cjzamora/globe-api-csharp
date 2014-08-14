@@ -1,4 +1,4 @@
-Globe API Wrapper Class for Visual C# .NET
+<h4>Globe API Wrapper Class for Visual C# .NET</h4> <br />
 Copyright (c) 2014 Globe Labs
 
 Requirements:
